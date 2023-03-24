@@ -10,8 +10,8 @@ This page is constructed using **"HTML and CSS"**
 
 he finished project can be found on GitHub Pages at:
  
- https://allen-ec.github.io/portfolio//
- 
+ https://allen-ec.github.io/portfolio/
+
 ---
 
 ## List of sites
